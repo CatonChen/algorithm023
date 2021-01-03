@@ -317,11 +317,10 @@ class Solution(object):
             if i >= k - 1:
                 res.append(nums[queue[0]])
         return res
-
+```
 
 #例如：nums = [1,3,-1,-3,5,3,6,7], k = 3
 #关键步骤打印结果
-```
 ' 'for loop i : 0
 ' +
   'queue.append(i):deque([0])
