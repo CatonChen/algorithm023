@@ -42,7 +42,7 @@ _时间复杂度_
 _时间复杂度_
 - 插入：O(1)
 - 删除：O(logn)  #按元素优先级取出
-3. [python 优先队列参考链接][2]
+3. [python 优先队列参考][2]
 #### LeetCode本周练习总结
 ##### 283. 移动零
 1. 双指针题解：
@@ -576,4 +576,4 @@ class Solution:
 ```
 
 [1]:	https://docs.python.org/zh-cn/3/library/collections.html?highlight=deque#deque-objects
-[2]:	%20https://docs.python.org/zh-cn/3/library/heapq.html#priority-queue-implementation-notes
+[2]:	https://docs.python.org/zh-cn/3/library/heapq.html#priority-queue-implementation-notes
